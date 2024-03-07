@@ -1,0 +1,11 @@
+C:\Users\Narutex\source\repos\SICDCB\SICDCB\bin\Debug\SICDCB.exe.config
+C:\Users\Narutex\source\repos\SICDCB\SICDCB\bin\Debug\SICDCB.exe
+C:\Users\Narutex\source\repos\SICDCB\SICDCB\bin\Debug\SICDCB.pdb
+C:\Users\Narutex\source\repos\SICDCB\SICDCB\obj\Debug\SICDCB.csprojAssemblyReference.cache
+C:\Users\Narutex\source\repos\SICDCB\SICDCB\obj\Debug\SICDCB.Cadastro.resources
+C:\Users\Narutex\source\repos\SICDCB\SICDCB\obj\Debug\SICDCB.SICDCB.resources
+C:\Users\Narutex\source\repos\SICDCB\SICDCB\obj\Debug\SICDCB.Properties.Resources.resources
+C:\Users\Narutex\source\repos\SICDCB\SICDCB\obj\Debug\SICDCB.csproj.GenerateResource.cache
+C:\Users\Narutex\source\repos\SICDCB\SICDCB\obj\Debug\SICDCB.csproj.CoreCompileInputs.cache
+C:\Users\Narutex\source\repos\SICDCB\SICDCB\obj\Debug\SICDCB.exe
+C:\Users\Narutex\source\repos\SICDCB\SICDCB\obj\Debug\SICDCB.pdb
